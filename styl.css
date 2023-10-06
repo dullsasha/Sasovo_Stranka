@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+.okenka{
+    margin: 16px;
+    background-color:red;
+    padding: 16px;
+    border-radius: 10px;
+    border: 3px inset black
+}
+
+#Text1{
+    color:white;
+    text-align:center;
+    text-decoration:dashed
+}
+
+#Text2{
+    color:white;
+    text-align: end;
+}
+
+
+#Text3{
+    color:white;
+    text-align:center
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+header{
+    background-color: white;
+    padding: 5px;
+    width: auto;
+    height: auto;
+}
+
+h3{
+    text-align: center;
+    
+}
+
+footer{
+    color: black;
+    background-color: yellow;
+    padding: 16px;
+    width: auto;
+    height: auto;
+}
